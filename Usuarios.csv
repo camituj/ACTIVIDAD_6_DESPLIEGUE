@@ -1,0 +1,650 @@
+﻿Administrador,Usuario,mini juego,color presionado,dificultad,Juego,boton correcto,tiempo de interaccion,numero de interaccion,auto push,tiempo de sesion,tiempo de leccion
+DENISSE,DENISSE,Asteroides,green,Episodio 4,Astro,0,1.072447,1,0,0,0
+DENISSE,DENISSE,Asteroides,green,Episodio 4,Astro,0,1.19146,2,0,0,0
+DENISSE,DENISSE,Asteroides,green,Episodio 4,Astro,1,1.887645,3,0,0,0
+DENISSE,DENISSE,Asteroides,blue,Episodio 4,Astro,1,1.816474,4,0,0,0
+DENISSE,DENISSE,Asteroides,violet,Episodio 4,Astro,0,0.8837629,5,0,0,0
+DENISSE,DENISSE,Asteroides,green,Episodio 4,Astro,0,1.000254,6,0,0,0
+DENISSE,DENISSE,Asteroides,green,Episodio 4,Astro,1,2.100186,7,0,0,0
+DENISSE,DENISSE,Asteroides,yellow,Episodio 4,Astro,1,1.016767,8,0,0,0
+DENISSE,DENISSE,Asteroides,yellow,Episodio 4,Astro,1,1.116856,9,0,0,0
+DENISSE,DENISSE,Asteroides,green,Episodio 4,Astro,1,1.349792,10,0,0,0
+DENISSE,DENISSE,Asteroides,yellow,Episodio 4,Astro,1,0.1831544,11,0,0,0
+DENISSE,DENISSE,Asteroides,green,Episodio 4,Astro,1,1.216606,12,0,0,0
+DENISSE,DENISSE,Asteroides,Sin Dato,Episodio 4,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,21.28888
+DENISSE,DENISSE,Sin Dato,Sin Dato,Episodio 4,Astro,0.492455418,9.986873821,13.33940819,0,74.97366,6.255413733
+DENISSE,DENISSE,Despegue,blue,Episodio 1,Astro,0,1.810289,1,0,0,0
+DENISSE,DENISSE,Despegue,yellow,Episodio 1,Astro,0,1.959943,2,0,0,0
+DENISSE,DENISSE,Despegue,blue,Episodio 1,Astro,1,2.644269,3,0,0,0
+DENISSE,DENISSE,Despegue,green,Episodio 1,Astro,1,2.299166,4,0,0,0
+DENISSE,DENISSE,Despegue,yellow,Episodio 1,Astro,1,2.251073,5,0,0,0
+DENISSE,DENISSE,Despegue,violet,Episodio 1,Astro,1,5.9,6,0,0,0
+DENISSE,DENISSE,Despegue,Sin Dato,Episodio 1,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,49.57961
+DENISSE,DENISSE,Asteroides,violet,Episodio 1,Astro,0,0.8080767,1,0,0,0
+DENISSE,DENISSE,Asteroides,violet,Episodio 1,Astro,1,1.691236,2,0,0,0
+DENISSE,DENISSE,Asteroides,blue,Episodio 1,Astro,1,0.1332779,3,0,0,0
+DENISSE,DENISSE,Asteroides,blue,Episodio 1,Astro,0,1.083647,4,0,0,0
+DENISSE,DENISSE,Asteroides,blue,Episodio 1,Astro,1,4.600368,5,0,0,0
+DENISSE,DENISSE,Asteroides,green,Episodio 1,Astro,1,0.8835471,6,0,0,0
+DENISSE,DENISSE,Asteroides,Sin Dato,Episodio 1,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,10.44194
+DENISSE,DENISSE,Estrellas,violet,Episodio 1,Astro,1,1.701537,1,0,0,0
+DENISSE,DENISSE,Estrellas,yellow,Episodio 1,Astro,1,1.733619,2,0,0,0
+DENISSE,DENISSE,Estrellas,blue,Episodio 1,Astro,1,1.665789,3,0,0,0
+DENISSE,DENISSE,Estrellas,green,Episodio 1,Astro,1,1.015621,4,0,0,0
+DENISSE,DENISSE,Estrellas,Sin Dato,Episodio 1,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,15.53542
+DENISSE,DENISSE,Gusanos,green,Episodio 1,Astro,1,1.400476,1,0,0,0
+DENISSE,DENISSE,Gusanos,yellow,Episodio 1,Astro,1,0.9505374,2,0,0,0
+DENISSE,DENISSE,Gusanos,blue,Episodio 1,Astro,0,0.1671456,3,0,0,0
+DENISSE,DENISSE,Gusanos,green,Episodio 1,Astro,1,0.9004058,4,0,0,0
+DENISSE,DENISSE,Gusanos,green,Episodio 1,Astro,1,1.016984,5,0,0,0
+DENISSE,DENISSE,Gusanos,Sin Dato,Episodio 1,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,28.41603
+DENISSE,DENISSE,Restaurante,green,Episodio 1,Astro,0,13.76758,1,0,0,0
+DENISSE,DENISSE,Restaurante,green,Episodio 1,Astro,0,14.70087,2,0,0,0
+DENISSE,DENISSE,Restaurante,green,Episodio 1,Astro,0,17.60084,3,0,0,0
+DENISSE,DENISSE,Restaurante,green,Episodio 1,Astro,0,18.86778,4,0,0,0
+DENISSE,DENISSE,Restaurante,green,Episodio 1,Astro,0,5.9,5,0,0,0
+DENISSE,DENISSE,Restaurante,green,Episodio 1,Astro,0,5.9,6,0,0,0
+DENISSE,DENISSE,Restaurante,green,Episodio 1,Astro,1,5.9,7,0,0,0
+DENISSE,DENISSE,Restaurante,violet,Episodio 1,Astro,0,9.984036,8,0,0,0
+DENISSE,DENISSE,Restaurante,violet,Episodio 1,Astro,0,10.00078,9,0,0,0
+DENISSE,DENISSE,Restaurante,violet,Episodio 1,Astro,0,15.91749,10,0,0,0
+DENISSE,DENISSE,Restaurante,violet,Episodio 1,Astro,1,5.9,11,0,0,0
+DENISSE,DENISSE,Restaurante,blue,Episodio 1,Astro,0,1.116656,12,0,0,0
+DENISSE,DENISSE,Restaurante,blue,Episodio 1,Astro,1,2.000516,13,0,0,0
+DENISSE,DENISSE,Restaurante,yellow,Episodio 1,Astro,0,0.3170486,14,0,0,0
+DENISSE,DENISSE,Restaurante,yellow,Episodio 1,Astro,0,4.366438,15,0,0,0
+DENISSE,DENISSE,Restaurante,yellow,Episodio 1,Astro,0,6.299743,16,0,0,0
+DENISSE,DENISSE,Restaurante,yellow,Episodio 1,Astro,0,7.100083,17,0,0,0
+DENISSE,DENISSE,Restaurante,yellow,Episodio 1,Astro,0,12.6671,18,0,0,0
+DENISSE,DENISSE,Restaurante,yellow,Episodio 1,Astro,0,14.3503,19,0,0,0
+DENISSE,DENISSE,Restaurante,yellow,Episodio 1,Astro,1,5.9,20,0,0,0
+DENISSE,DENISSE,Restaurante,Sin Dato,Episodio 1,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,4.5
+DENISSE,DENISSE,Asteroides,violet,Episodio 2,Astro,0,1.567206,1,0,0,0
+DENISSE,DENISSE,Asteroides,violet,Episodio 2,Astro,1,2.250324,2,0,0,0
+DENISSE,DENISSE,Asteroides,green,Episodio 2,Astro,1,1.383559,3,0,0,0
+DENISSE,DENISSE,Asteroides,green,Episodio 2,Astro,0,0.6503261,4,0,0,0
+DENISSE,DENISSE,Asteroides,green,Episodio 2,Astro,1,1.117065,5,0,0,0
+DENISSE,DENISSE,Asteroides,yellow,Episodio 2,Astro,1,0.9164634,6,0,0,0
+DENISSE,DENISSE,Asteroides,green,Episodio 2,Astro,1,0.9826397,7,0,0,0
+DENISSE,DENISSE,Asteroides,Sin Dato,Episodio 2,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,18.44229
+DENISSE,DENISSE,Estrellas,blue,Episodio 2,Astro,1,2.380083,1,0,0,0
+DENISSE,DENISSE,Estrellas,yellow,Episodio 2,Astro,1,1.699734,2,0,0,0
+DENISSE,DENISSE,Estrellas,violet,Episodio 2,Astro,1,1.249971,3,0,0,0
+DENISSE,DENISSE,Estrellas,yellow,Episodio 2,Astro,1,1.433412,4,0,0,0
+DENISSE,DENISSE,Estrellas,violet,Episodio 2,Astro,1,1.416711,5,0,0,0
+DENISSE,DENISSE,Estrellas,Sin Dato,Episodio 2,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,19.73126
+DENISSE,DENISSE,Gusanos,yellow,Episodio 2,Astro,1,5.9,1,0,0,0
+DENISSE,DENISSE,Gusanos,violet,Episodio 2,Astro,0,5.9,2,0,0,0
+DENISSE,DENISSE,Gusanos,violet,Episodio 2,Astro,1,5.9,3,0,0,0
+DENISSE,DENISSE,Gusanos,blue,Episodio 2,Astro,0,0.7333786,4,0,0,0
+DENISSE,DENISSE,Gusanos,green,Episodio 2,Astro,1,0.9500858,5,0,0,0
+DENISSE,DENISSE,Gusanos,yellow,Episodio 2,Astro,1,0.7834284,6,0,0,0
+DENISSE,DENISSE,Gusanos,green,Episodio 2,Astro,1,1.050411,7,0,0,0
+DENISSE,DENISSE,Gusanos,violet,Episodio 2,Astro,1,1.116817,8,0,0,0
+DENISSE,DENISSE,Gusanos,Sin Dato,Episodio 2,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,53.67495
+DENISSE,DENISSE,Restaurante,blue,Episodio 2,Astro,0,0.9996157,1,0,0,0
+DENISSE,DENISSE,Restaurante,blue,Episodio 2,Astro,1,2.949324,2,0,0,0
+DENISSE,DENISSE,Restaurante,violet,Episodio 2,Astro,0,1.366796,3,0,0,0
+DENISSE,DENISSE,Restaurante,violet,Episodio 2,Astro,0,3.766712,4,0,0,0
+DENISSE,DENISSE,Restaurante,violet,Episodio 2,Astro,0,4.916922,5,0,0,0
+DENISSE,DENISSE,Restaurante,violet,Episodio 2,Astro,0,5.450302,6,0,0,0
+DENISSE,DENISSE,Restaurante,yellow,Episodio 2,Astro,0,0.8992304,7,0,0,0
+DENISSE,DENISSE,Restaurante,yellow,Episodio 2,Astro,0,1.932838,8,0,0,0
+DENISSE,DENISSE,Restaurante,yellow,Episodio 2,Astro,0,3.382621,9,0,0,0
+DENISSE,DENISSE,Restaurante,yellow,Episodio 2,Astro,1,3.532646,10,0,0,0
+DENISSE,DENISSE,Restaurante,blue,Episodio 2,Astro,0,1.533358,11,0,0,0
+DENISSE,DENISSE,Restaurante,blue,Episodio 2,Astro,0,2.05017,12,0,0,0
+DENISSE,DENISSE,Restaurante,blue,Episodio 2,Astro,0,3.750506,13,0,0,0
+DENISSE,DENISSE,Restaurante,blue,Episodio 2,Astro,1,5.766836,14,0,0,0
+DENISSE,DENISSE,Restaurante,yellow,Episodio 2,Astro,0,1.700007,15,0,0,0
+DENISSE,DENISSE,Restaurante,yellow,Episodio 2,Astro,0,3.483338,16,0,0,0
+DENISSE,DENISSE,Restaurante,yellow,Episodio 2,Astro,1,4.700184,17,0,0,0
+DENISSE,DENISSE,Restaurante,yellow,Episodio 2,Astro,0,2.116751,18,0,0,0
+DENISSE,DENISSE,Restaurante,violet,Episodio 2,Astro,0,3.200057,19,0,0,0
+DENISSE,DENISSE,Restaurante,violet,Episodio 2,Astro,0,4.517301,20,0,0,0
+DENISSE,DENISSE,Restaurante,violet,Episodio 2,Astro,0,5.300675,21,0,0,0
+DENISSE,DENISSE,Restaurante,violet,Episodio 2,Astro,0,1.566547,22,0,0,0
+DENISSE,DENISSE,Restaurante,violet,Episodio 2,Astro,0,2.649674,23,0,0,0
+DENISSE,DENISSE,Restaurante,violet,Episodio 2,Astro,1,4.48398,24,0,0,0
+DENISSE,DENISSE,Restaurante,Sin Dato,Episodio 2,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,4.5
+DENISSE,DENISSE,Asteroides,yellow,Episodio 3,Astro,1,3.102063,1,0,0,0
+DENISSE,DENISSE,Asteroides,green,Episodio 3,Astro,0,0.0498331,2,0,0,0
+DENISSE,DENISSE,Asteroides,green,Episodio 3,Astro,1,1.300173,3,0,0,0
+DENISSE,DENISSE,Asteroides,green,Episodio 3,Astro,1,0.9842755,4,0,0,0
+DENISSE,DENISSE,Asteroides,violet,Episodio 3,Astro,0,0.6335669,5,0,0,0
+DENISSE,DENISSE,Asteroides,violet,Episodio 3,Astro,1,0.9336903,6,0,0,0
+DENISSE,DENISSE,Asteroides,violet,Episodio 3,Astro,1,0.8002689,7,0,0,0
+DENISSE,DENISSE,Asteroides,Sin Dato,Episodio 3,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,9.618997
+DENISSE,DENISSE,Estrellas,yellow,Episodio 3,Astro,1,1.247287,1,0,0,0
+DENISSE,DENISSE,Estrellas,violet,Episodio 3,Astro,1,1.59981,2,0,0,0
+DENISSE,DENISSE,Estrellas,green,Episodio 3,Astro,1,1.249081,3,0,0,0
+DENISSE,DENISSE,Estrellas,green,Episodio 3,Astro,0,1.249081,4,0,0,0
+DENISSE,DENISSE,Estrellas,blue,Episodio 3,Astro,1,1.449836,5,0,0,0
+DENISSE,DENISSE,Estrellas,yellow,Episodio 3,Astro,1,1.299942,6,0,0,0
+DENISSE,DENISSE,Estrellas,Sin Dato,Episodio 3,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,18.39758
+DENISSE,DENISSE,Gusanos,Sin Dato,Episodio 3,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,2.589779
+DENISSE,DENISSE,Sin Dato,Sin Dato,Episodio 3,Astro,0.492455418,9.986873821,13.33940819,0,3.5,6.255413733
+DENISSE,DENISSE,MiniGame_2,Sin Dato,Episodio 3,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,6.255413733
+DENISSE,DENISSE,Asteroides,blue,Episodio 3,Astro,1,4.077463,1,0,0,0
+DENISSE,DENISSE,Asteroides,green,Episodio 3,Astro,0,0.8837728,2,0,0,0
+DENISSE,DENISSE,Asteroides,green,Episodio 3,Astro,1,1.051069,3,0,0,0
+DENISSE,DENISSE,Asteroides,violet,Episodio 3,Astro,1,0.8833223,4,0,0,0
+DENISSE,DENISSE,Asteroides,violet,Episodio 3,Astro,0,0.5666031,5,0,0,0
+DENISSE,DENISSE,Asteroides,violet,Episodio 3,Astro,1,0.9836066,6,0,0,0
+DENISSE,DENISSE,Asteroides,yellow,Episodio 3,Astro,0,0.7987677,7,0,0,0
+DENISSE,DENISSE,Asteroides,yellow,Episodio 3,Astro,1,1.232252,8,0,0,0
+DENISSE,DENISSE,Asteroides,Sin Dato,Episodio 3,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,10.66096
+DENISSE,DENISSE,Sin Dato,Sin Dato,Episodio 3,Astro,0.492455418,9.986873821,13.33940819,0,66.53712,6.255413733
+DENISSE,DENISSE,Despegue,blue,Episodio 1,Astro,1,4.013064,1,0,0,0
+DENISSE,DENISSE,Despegue,green,Episodio 1,Astro,1,3.401351,2,0,0,0
+DENISSE,DENISSE,Despegue,yellow,Episodio 1,Astro,1,3.333344,3,0,0,0
+DENISSE,DENISSE,Despegue,violet,Episodio 1,Astro,1,2.400734,4,0,0,0
+DENISSE,DENISSE,Despegue,Sin Dato,Episodio 1,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,28.21474
+DENISSE,DENISSE,Asteroides,yellow,Episodio 1,Astro,1,1.081607,1,0,0,0
+DENISSE,DENISSE,Asteroides,violet,Episodio 1,Astro,1,0.6668099,2,0,0,0
+DENISSE,DENISSE,Asteroides,blue,Episodio 1,Astro,0,0.466588,3,0,0,0
+DENISSE,DENISSE,Asteroides,blue,Episodio 1,Astro,1,0.8667077,4,0,0,0
+DENISSE,DENISSE,Asteroides,yellow,Episodio 1,Astro,1,0.3999258,5,0,0,0
+DENISSE,DENISSE,Asteroides,Sin Dato,Episodio 1,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,6.398694
+DENISSE,DENISSE,Estrellas,violet,Episodio 1,Astro,1,5.301066,1,0,0,0
+DENISSE,DENISSE,Estrellas,violet,Episodio 1,Astro,0,1.2008,2,0,0,0
+DENISSE,DENISSE,Estrellas,violet,Episodio 1,Astro,1,1.550111,3,0,0,0
+DENISSE,DENISSE,Estrellas,violet,Episodio 1,Astro,0,0.4498789,4,0,0,0
+DENISSE,DENISSE,Estrellas,violet,Episodio 1,Astro,0,1.283374,5,0,0,0
+DENISSE,DENISSE,Estrellas,violet,Episodio 1,Astro,1,1.433551,6,0,0,0
+DENISSE,DENISSE,Estrellas,yellow,Episodio 1,Astro,0,0.8832896,7,0,0,0
+DENISSE,DENISSE,Estrellas,yellow,Episodio 1,Astro,1,1.233884,8,0,0,0
+DENISSE,DENISSE,Estrellas,Sin Dato,Episodio 1,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,18.90194
+DENISSE,DENISSE,Gusanos,yellow,Episodio 1,Astro,0,0.9668551,1,0,0,0
+DENISSE,DENISSE,Gusanos,blue,Episodio 1,Astro,0,1.100017,2,0,0,0
+DENISSE,DENISSE,Gusanos,green,Episodio 1,Astro,1,1.234225,3,0,0,0
+DENISSE,DENISSE,Gusanos,yellow,Episodio 1,Astro,0,0.04916,4,0,0,0
+DENISSE,DENISSE,Gusanos,blue,Episodio 1,Astro,1,4.665943,5,0,0,0
+DENISSE,DENISSE,Gusanos,green,Episodio 1,Astro,1,1.199627,6,0,0,0
+DENISSE,DENISSE,Gusanos,green,Episodio 1,Astro,1,0.7165321,7,0,0,0
+DENISSE,DENISSE,Gusanos,Sin Dato,Episodio 1,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,31.91832
+DENISSE,DENISSE,Restaurante,blue,Episodio 1,Astro,0,0.2167556,1,0,0,0
+DENISSE,DENISSE,Restaurante,blue,Episodio 1,Astro,0,0.750093,2,0,0,0
+DENISSE,DENISSE,Restaurante,blue,Episodio 1,Astro,0,1.28344,3,0,0,0
+DENISSE,DENISSE,Restaurante,blue,Episodio 1,Astro,0,1.950001,4,0,0,0
+DENISSE,DENISSE,Restaurante,blue,Episodio 1,Astro,0,2.716894,5,0,0,0
+DENISSE,DENISSE,Restaurante,blue,Episodio 1,Astro,1,3.050205,6,0,0,0
+DENISSE,DENISSE,Restaurante,yellow,Episodio 1,Astro,0,4.033495,7,0,0,0
+DENISSE,DENISSE,Restaurante,yellow,Episodio 1,Astro,1,4.716999,8,0,0,0
+DENISSE,DENISSE,Restaurante,green,Episodio 1,Astro,1,0.7167097,9,0,0,0
+DENISSE,DENISSE,Restaurante,yellow,Episodio 1,Astro,1,2.066337,10,0,0,0
+DENISSE,DENISSE,Restaurante,Sin Dato,Episodio 1,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,58.0671
+DENISSE,DENISSE,Asteroides,violet,Episodio 2,Astro,1,1.451197,1,0,0,0
+DENISSE,DENISSE,Asteroides,green,Episodio 2,Astro,1,1.216809,2,0,0,0
+DENISSE,DENISSE,Asteroides,blue,Episodio 2,Astro,1,0.9673553,3,0,0,0
+DENISSE,DENISSE,Asteroides,blue,Episodio 2,Astro,1,2.133212,4,0,0,0
+DENISSE,DENISSE,Asteroides,violet,Episodio 2,Astro,1,1.317009,5,0,0,0
+DENISSE,DENISSE,Asteroides,Sin Dato,Episodio 2,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,10.00133
+DENISSE,DENISSE,Estrellas,yellow,Episodio 2,Astro,1,3.218325,1,0,0,0
+DENISSE,DENISSE,Estrellas,yellow,Episodio 2,Astro,1,1.817396,2,0,0,0
+DENISSE,DENISSE,Estrellas,violet,Episodio 2,Astro,1,1.416195,3,0,0,0
+DENISSE,DENISSE,Estrellas,blue,Episodio 2,Astro,1,1.200125,4,0,0,0
+DENISSE,DENISSE,Estrellas,green,Episodio 2,Astro,1,1.583203,5,0,0,0
+DENISSE,DENISSE,Estrellas,Sin Dato,Episodio 2,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,21.71931
+DENISSE,DENISSE,Gusanos,blue,Episodio 2,Astro,1,3.43373,1,0,0,0
+DENISSE,DENISSE,Gusanos,blue,Episodio 2,Astro,1,1.500244,2,0,0,0
+DENISSE,DENISSE,Gusanos,blue,Episodio 2,Astro,0,0.2329098,3,0,0,0
+DENISSE,DENISSE,Gusanos,violet,Episodio 2,Astro,1,1.016313,4,0,0,0
+DENISSE,DENISSE,Gusanos,green,Episodio 2,Astro,1,0.6498276,5,0,0,0
+DENISSE,DENISSE,Gusanos,blue,Episodio 2,Astro,1,2.2335,6,0,0,0
+DENISSE,DENISSE,Gusanos,Sin Dato,Episodio 2,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,31.95535
+DENISSE,DENISSE,Restaurante,green,Episodio 2,Astro,1,0.0497364,1,0,0,0
+DENISSE,DENISSE,Restaurante,violet,Episodio 2,Astro,1,3.133686,2,0,0,0
+DENISSE,DENISSE,Restaurante,violet,Episodio 2,Astro,0,1.466751,3,0,0,0
+DENISSE,DENISSE,Restaurante,violet,Episodio 2,Astro,1,1.799927,4,0,0,0
+DENISSE,DENISSE,Restaurante,blue,Episodio 2,Astro,1,0.1001935,5,0,0,0
+DENISSE,DENISSE,Restaurante,green,Episodio 2,Astro,0,0.7832932,6,0,0,0
+DENISSE,DENISSE,Restaurante,green,Episodio 2,Astro,1,1.516862,7,0,0,0
+DENISSE,DENISSE,Restaurante,Sin Dato,Episodio 2,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,65.96043
+DENISSE,DENISSE,Asteroides,violet,Episodio 3,Astro,1,1.392964,1,0,0,0
+DENISSE,DENISSE,Asteroides,green,Episodio 3,Astro,1,0.8000877,2,0,0,0
+DENISSE,DENISSE,Asteroides,yellow,Episodio 3,Astro,1,0.9822669,3,0,0,0
+DENISSE,DENISSE,Asteroides,green,Episodio 3,Astro,1,0.9665462,4,0,0,0
+DENISSE,DENISSE,Asteroides,blue,Episodio 3,Astro,1,1.048801,5,0,0,0
+DENISSE,DENISSE,Asteroides,Sin Dato,Episodio 3,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,8.126186
+DENISSE,DENISSE,Estrellas,red,Episodio 3,Astro,0,2.903328,1,0,0,0
+DENISSE,DENISSE,Estrellas,Sin Dato,Episodio 3,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,4.586115
+DENISSE,DENISSE,Sin Dato,Sin Dato,Episodio 3,Astro,0.492455418,9.986873821,13.33940819,0,3.5,6.255413733
+AUSTIN,CONCEPCION,sonidos y animales,blue,Episodio 1,Cadetes,1,8.263317,1,0,0,0
+AUSTIN,CONCEPCION,sonidos y animales,green,Episodio 1,Cadetes,1,5.500156,2,0,0,0
+AUSTIN,CONCEPCION,sonidos y animales,yellow,Episodio 1,Cadetes,1,5.783503,3,0,0,0
+AUSTIN,CONCEPCION,sonidos y animales,violet,Episodio 1,Cadetes,1,8.69995,4,0,0,0
+AUSTIN,CONCEPCION,sonidos y animales,Sin Dato,Episodio 1,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,59.84951
+AUSTIN,CONCEPCION,animales y colores,blue,Episodio 1,Cadetes,1,7.44883,1,0,0,0
+AUSTIN,CONCEPCION,animales y colores,green,Episodio 1,Cadetes,1,6.033129,2,0,0,0
+AUSTIN,CONCEPCION,animales y colores,violet,Episodio 1,Cadetes,0,17.68448,3,0,0,0
+AUSTIN,CONCEPCION,animales y colores,violet,Episodio 1,Cadetes,0,19.81777,4,0,0,0
+AUSTIN,CONCEPCION,animales y colores,violet,Episodio 1,Cadetes,0,21.3518,5,0,0,0
+AUSTIN,CONCEPCION,animales y colores,violet,Episodio 1,Cadetes,0,5.9,6,0,0,0
+AUSTIN,CONCEPCION,animales y colores,yellow,Episodio 1,Cadetes,1,5.9,7,0,0,0
+AUSTIN,CONCEPCION,animales y colores,yellow,Episodio 1,Cadetes,0,5.9,8,0,0,0
+AUSTIN,CONCEPCION,animales y colores,violet,Episodio 1,Cadetes,1,5.9,9,0,0,0
+AUSTIN,CONCEPCION,animales y colores,Sin Dato,Episodio 1,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,113.8051
+AUSTIN,CONCEPCION,figuras y colores,blue,Episodio 1,Cadetes,1,9.355082,1,0,0,0
+AUSTIN,CONCEPCION,figuras y colores,violet,Episodio 1,Cadetes,0,0,2,0,0,0
+AUSTIN,CONCEPCION,figuras y colores,green,Episodio 1,Cadetes,1,7.534299,3,0,0,0
+AUSTIN,CONCEPCION,figuras y colores,yellow,Episodio 1,Cadetes,1,3.000357,4,0,0,0
+AUSTIN,CONCEPCION,figuras y colores,yellow,Episodio 1,Cadetes,0,0,5,0,0,0
+AUSTIN,CONCEPCION,figuras y colores,violet,Episodio 1,Cadetes,1,5.9,6,0,0,0
+AUSTIN,CONCEPCION,figuras y colores,Sin Dato,Episodio 1,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,81.49194
+AUSTIN,CONCEPCION,partes del cuerpo,blue,Episodio 1,Cadetes,1,11.54092,1,0,0,0
+AUSTIN,CONCEPCION,partes del cuerpo,green,Episodio 1,Cadetes,1,5.582949,2,0,0,0
+AUSTIN,CONCEPCION,partes del cuerpo,yellow,Episodio 1,Cadetes,1,4.416877,3,0,0,0
+AUSTIN,CONCEPCION,partes del cuerpo,violet,Episodio 1,Cadetes,1,5.9,4,0,0,0
+AUSTIN,CONCEPCION,partes del cuerpo,Sin Dato,Episodio 1,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,85.61057
+AUSTIN,CONCEPCION,sonidos y animales,green,Episodio 2,Cadetes,1,7.776585,1,0,0,0
+AUSTIN,CONCEPCION,sonidos y animales,blue,Episodio 2,Cadetes,1,11.66729,2,0,0,0
+AUSTIN,CONCEPCION,sonidos y animales,violet,Episodio 2,Cadetes,1,3.500244,3,0,0,0
+AUSTIN,CONCEPCION,sonidos y animales,yellow,Episodio 2,Cadetes,1,5.700422,4,0,0,0
+AUSTIN,CONCEPCION,sonidos y animales,Sin Dato,Episodio 2,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,64.71384
+AUSTIN,CONCEPCION,animales y colores,violet,Episodio 2,Cadetes,1,18.92757,1,0,0,0
+AUSTIN,CONCEPCION,animales y colores,green,Episodio 2,Cadetes,1,5.9,2,0,0,0
+AUSTIN,CONCEPCION,animales y colores,Sin Dato,Episodio 2,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,63.68026
+AUSTIN,CONCEPCION,Sin Dato,Sin Dato,Episodio 2,Cadetes,0.492455418,9.986873821,13.33940819,0,3.5,6.255413733
+AUSTIN,CONCEPCION,sonidos y animales,blue,Episodio 1,Cadetes,1,8.14652,1,0,0,0
+AUSTIN,CONCEPCION,sonidos y animales,blue,Episodio 1,Cadetes,0,15.38393,2,0,0,0
+AUSTIN,CONCEPCION,sonidos y animales,blue,Episodio 1,Cadetes,0,5.9,3,0,0,0
+AUSTIN,CONCEPCION,sonidos y animales,blue,Episodio 1,Cadetes,1,5.9,4,0,0,0
+AUSTIN,CONCEPCION,sonidos y animales,blue,Episodio 1,Cadetes,1,7.233763,5,0,0,0
+AUSTIN,CONCEPCION,sonidos y animales,blue,Episodio 1,Cadetes,0,16.60087,6,0,0,0
+AUSTIN,CONCEPCION,sonidos y animales,blue,Episodio 1,Cadetes,0,17.68454,7,0,0,0
+AUSTIN,CONCEPCION,sonidos y animales,blue,Episodio 1,Cadetes,1,10.45047,8,0,0,0
+AUSTIN,CONCEPCION,sonidos y animales,Sin Dato,Episodio 1,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,89.03414
+AUSTIN,CONCEPCION,animales y colores,yellow,Episodio 1,Cadetes,0,0,1,0,0,0
+AUSTIN,CONCEPCION,animales y colores,yellow,Episodio 1,Cadetes,0,0.3838879,2,0,0,0
+AUSTIN,CONCEPCION,animales y colores,violet,Episodio 1,Cadetes,0,2.316944,3,0,0,0
+AUSTIN,CONCEPCION,animales y colores,green,Episodio 1,Cadetes,1,10.25695,4,0,0,0
+AUSTIN,CONCEPCION,animales y colores,green,Episodio 1,Cadetes,1,5.9,5,0,0,0
+AUSTIN,CONCEPCION,animales y colores,blue,Episodio 1,Cadetes,0,21.18494,6,0,0,0
+AUSTIN,CONCEPCION,animales y colores,blue,Episodio 1,Cadetes,0,5.9,7,0,0,0
+AUSTIN,CONCEPCION,animales y colores,green,Episodio 1,Cadetes,1,5.9,8,0,0,0
+AUSTIN,CONCEPCION,animales y colores,green,Episodio 1,Cadetes,1,15.9065,9,0,0,0
+AUSTIN,CONCEPCION,animales y colores,blue,Episodio 1,Cadetes,0,0.0163195,10,0,0,0
+AUSTIN,CONCEPCION,animales y colores,Sin Dato,Episodio 1,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,116.9961
+AUSTIN,CONCEPCION,figuras y colores,yellow,Episodio 1,Cadetes,1,16.92591,1,0,0,0
+AUSTIN,CONCEPCION,figuras y colores,yellow,Episodio 1,Cadetes,1,12.01735,2,0,0,0
+AUSTIN,CONCEPCION,figuras y colores,yellow,Episodio 1,Cadetes,1,5.9,3,0,0,0
+AUSTIN,CONCEPCION,figuras y colores,yellow,Episodio 1,Cadetes,1,7.433706,4,0,0,0
+AUSTIN,CONCEPCION,figuras y colores,Sin Dato,Episodio 1,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,97.71312
+AUSTIN,CONCEPCION,partes del cuerpo,violet,Episodio 1,Cadetes,1,9.651254,1,0,0,0
+AUSTIN,CONCEPCION,partes del cuerpo,violet,Episodio 1,Cadetes,1,6.450531,2,0,0,0
+AUSTIN,CONCEPCION,partes del cuerpo,violet,Episodio 1,Cadetes,1,13.95109,3,0,0,0
+AUSTIN,CONCEPCION,partes del cuerpo,violet,Episodio 1,Cadetes,1,11.6678,4,0,0,0
+AUSTIN,CONCEPCION,partes del cuerpo,Sin Dato,Episodio 1,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,65.27108
+AUSTIN,CONCEPCION,sonidos y animales,violet,Episodio 2,Cadetes,0,0,1,0,0,0
+AUSTIN,CONCEPCION,sonidos y animales,violet,Episodio 2,Cadetes,1,5.9,2,0,0,0
+AUSTIN,CONCEPCION,sonidos y animales,violet,Episodio 2,Cadetes,1,15.10043,3,0,0,0
+AUSTIN,CONCEPCION,sonidos y animales,violet,Episodio 2,Cadetes,0,5.9,4,0,0,0
+AUSTIN,CONCEPCION,sonidos y animales,violet,Episodio 2,Cadetes,1,17.55085,5,0,0,0
+AUSTIN,CONCEPCION,sonidos y animales,violet,Episodio 2,Cadetes,0,5.9,6,0,0,0
+AUSTIN,CONCEPCION,sonidos y animales,violet,Episodio 2,Cadetes,0,5.9,7,0,0,0
+AUSTIN,CONCEPCION,sonidos y animales,violet,Episodio 2,Cadetes,0,5.9,8,0,0,0
+AUSTIN,CONCEPCION,sonidos y animales,violet,Episodio 2,Cadetes,0,5.9,9,0,0,0
+AUSTIN,CONCEPCION,sonidos y animales,violet,Episodio 2,Cadetes,1,5.9,10,0,0,0
+AUSTIN,CONCEPCION,sonidos y animales,Sin Dato,Episodio 2,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,4.5
+AUSTIN,CONCEPCION,animales y colores,green,Episodio 2,Cadetes,1,9.571946,1,0,0,0
+AUSTIN,CONCEPCION,animales y colores,green,Episodio 2,Cadetes,1,9.775446,2,0,0,0
+AUSTIN,CONCEPCION,animales y colores,blue,Episodio 2,Cadetes,0,12.50064,3,0,0,0
+AUSTIN,CONCEPCION,animales y colores,green,Episodio 2,Cadetes,1,5.208691,4,0,0,0
+AUSTIN,CONCEPCION,animales y colores,green,Episodio 2,Cadetes,1,10.43917,5,0,0,0
+AUSTIN,CONCEPCION,animales y colores,Sin Dato,Episodio 2,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,66.52493
+AUSTIN,CONCEPCION,figuras y colores,blue,Episodio 2,Cadetes,1,8.455371,1,0,0,0
+AUSTIN,CONCEPCION,figuras y colores,green,Episodio 2,Cadetes,0,0,2,0,0,0
+AUSTIN,CONCEPCION,figuras y colores,blue,Episodio 2,Cadetes,1,8.166821,3,0,0,0
+AUSTIN,CONCEPCION,figuras y colores,green,Episodio 2,Cadetes,0,0,4,0,0,0
+AUSTIN,CONCEPCION,figuras y colores,blue,Episodio 2,Cadetes,1,5.9,5,0,0,0
+AUSTIN,CONCEPCION,figuras y colores,blue,Episodio 2,Cadetes,1,12.05044,6,0,0,0
+AUSTIN,CONCEPCION,figuras y colores,green,Episodio 2,Cadetes,0,0,7,0,0,0
+AUSTIN,CONCEPCION,figuras y colores,Sin Dato,Episodio 2,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,78.05938
+AUSTIN,CONCEPCION,partes del cuerpo,yellow,Episodio 2,Cadetes,1,5.9,1,0,0,0
+AUSTIN,CONCEPCION,partes del cuerpo,yellow,Episodio 2,Cadetes,1,5.9,2,0,0,0
+AUSTIN,CONCEPCION,partes del cuerpo,yellow,Episodio 2,Cadetes,1,16.11734,3,0,0,0
+AUSTIN,CONCEPCION,partes del cuerpo,yellow,Episodio 2,Cadetes,1,5.9,4,0,0,0
+AUSTIN,CONCEPCION,partes del cuerpo,Sin Dato,Episodio 2,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,4.5
+AUSTIN,CONCEPCION,sonidos y animales,blue,Episodio 3,Cadetes,1,20.35587,1,0,0,0
+AUSTIN,CONCEPCION,sonidos y animales,green,Episodio 3,Cadetes,0,9.750505,2,0,0,0
+AUSTIN,CONCEPCION,sonidos y animales,green,Episodio 3,Cadetes,1,5.9,3,0,0,0
+AUSTIN,CONCEPCION,sonidos y animales,blue,Episodio 3,Cadetes,0,5.9,4,0,0,0
+AUSTIN,CONCEPCION,sonidos y animales,blue,Episodio 3,Cadetes,0,5.9,5,0,0,0
+AUSTIN,CONCEPCION,sonidos y animales,Sin Dato,Episodio 3,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,4.5
+AUSTIN,CONCEPCION,Sin Dato,Sin Dato,Episodio 3,Cadetes,0.492455418,9.986873821,13.33940819,0,3.5,6.255413733
+CARLOS ENRIQUE,CARLOS ENRIQUE,sonidos y animales,blue,Episodio 1,Cadetes,1,4.20146,1,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,sonidos y animales,green,Episodio 1,Cadetes,1,2.750362,2,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,sonidos y animales,yellow,Episodio 1,Cadetes,1,2.71692,3,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,sonidos y animales,violet,Episodio 1,Cadetes,1,2.566897,4,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,sonidos y animales,Sin Dato,Episodio 1,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,45.93936
+CARLOS ENRIQUE,CARLOS ENRIQUE,animales y colores,blue,Episodio 1,Cadetes,1,9.844861,1,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,animales y colores,green,Episodio 1,Cadetes,1,0.1619151,2,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,animales y colores,yellow,Episodio 1,Cadetes,1,1.444785,3,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,animales y colores,violet,Episodio 1,Cadetes,1,1.475273,4,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,animales y colores,Sin Dato,Episodio 1,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,40.21328
+CARLOS ENRIQUE,CARLOS ENRIQUE,figuras y colores,blue,Episodio 1,Cadetes,1,3.678138,1,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,figuras y colores,green,Episodio 1,Cadetes,1,1.550097,2,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,figuras y colores,yellow,Episodio 1,Cadetes,1,2.599954,3,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,figuras y colores,violet,Episodio 1,Cadetes,1,2.166867,4,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,figuras y colores,Sin Dato,Episodio 1,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,29.79621
+CARLOS ENRIQUE,CARLOS ENRIQUE,partes del cuerpo,blue,Episodio 1,Cadetes,1,6.249249,1,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,partes del cuerpo,green,Episodio 1,Cadetes,1,5.316921,2,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,partes del cuerpo,yellow,Episodio 1,Cadetes,1,3.617203,3,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,partes del cuerpo,violet,Episodio 1,Cadetes,1,3.566904,4,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,partes del cuerpo,Sin Dato,Episodio 1,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,41.81778
+CARLOS ENRIQUE,CARLOS ENRIQUE,sonidos y animales,yellow,Episodio 2,Cadetes,1,2.390997,1,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,sonidos y animales,green,Episodio 2,Cadetes,1,1.54934,2,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,sonidos y animales,blue,Episodio 2,Cadetes,1,1.883891,3,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,sonidos y animales,violet,Episodio 2,Cadetes,1,1.133413,4,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,sonidos y animales,Sin Dato,Episodio 2,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,39.45872
+CARLOS ENRIQUE,CARLOS ENRIQUE,animales y colores,yellow,Episodio 2,Cadetes,1,1.742708,1,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,animales y colores,green,Episodio 2,Cadetes,1,2.543473,2,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,animales y colores,blue,Episodio 2,Cadetes,1,4.793488,3,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,animales y colores,violet,Episodio 2,Cadetes,1,3.140055,4,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,animales y colores,Sin Dato,Episodio 2,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,43.37877
+CARLOS ENRIQUE,CARLOS ENRIQUE,figuras y colores,violet,Episodio 2,Cadetes,1,1.518032,1,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,figuras y colores,yellow,Episodio 2,Cadetes,1,1.233718,2,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,figuras y colores,green,Episodio 2,Cadetes,1,1.200082,3,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,figuras y colores,blue,Episodio 2,Cadetes,1,1.116951,4,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,figuras y colores,Sin Dato,Episodio 2,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,27.46944
+CARLOS ENRIQUE,CARLOS ENRIQUE,partes del cuerpo,blue,Episodio 2,Cadetes,1,2.186727,1,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,partes del cuerpo,green,Episodio 2,Cadetes,1,1.117186,2,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,partes del cuerpo,yellow,Episodio 2,Cadetes,0,2.48357,3,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,partes del cuerpo,violet,Episodio 2,Cadetes,1,3.583817,4,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,partes del cuerpo,yellow,Episodio 2,Cadetes,1,1.083358,5,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,partes del cuerpo,Sin Dato,Episodio 2,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,30.78827
+CARLOS ENRIQUE,CARLOS ENRIQUE,sonidos y animales,blue,Episodio 3,Cadetes,1,5.945351,1,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,sonidos y animales,green,Episodio 3,Cadetes,1,1.516508,2,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,sonidos y animales,yellow,Episodio 3,Cadetes,1,2.633585,3,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,sonidos y animales,violet,Episodio 3,Cadetes,1,0.9500179,4,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,sonidos y animales,blue,Episodio 3,Cadetes,0,11.18388,5,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,sonidos y animales,blue,Episodio 3,Cadetes,1,3.58306,6,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,sonidos y animales,Sin Dato,Episodio 3,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,60.48074
+CARLOS ENRIQUE,CARLOS ENRIQUE,animales y colores,green,Episodio 3,Cadetes,1,4.543665,1,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,animales y colores,violet,Episodio 3,Cadetes,1,2.845648,2,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,animales y colores,blue,Episodio 3,Cadetes,1,2.362165,3,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,animales y colores,yellow,Episodio 3,Cadetes,1,2.159392,4,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,animales y colores,green,Episodio 3,Cadetes,1,2.750876,5,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,animales y colores,Sin Dato,Episodio 3,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,50.37957
+CARLOS ENRIQUE,CARLOS ENRIQUE,figuras y colores,blue,Episodio 3,Cadetes,1,1.676829,1,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,figuras y colores,green,Episodio 3,Cadetes,1,8.817607,2,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,figuras y colores,violet,Episodio 3,Cadetes,1,3.382978,3,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,figuras y colores,violet,Episodio 3,Cadetes,0,0,4,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,figuras y colores,yellow,Episodio 3,Cadetes,1,8.017594,5,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,figuras y colores,green,Episodio 3,Cadetes,0,0,6,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,figuras y colores,green,Episodio 3,Cadetes,0,0,7,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,figuras y colores,blue,Episodio 3,Cadetes,1,3.250237,8,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,figuras y colores,Sin Dato,Episodio 3,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,52.22958
+CARLOS ENRIQUE,CARLOS ENRIQUE,partes del cuerpo,blue,Episodio 3,Cadetes,1,6.228675,1,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,partes del cuerpo,violet,Episodio 3,Cadetes,1,9.316837,2,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,partes del cuerpo,green,Episodio 3,Cadetes,1,4.666852,3,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,partes del cuerpo,violet,Episodio 3,Cadetes,1,3.283505,4,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,partes del cuerpo,green,Episodio 3,Cadetes,1,3.683359,5,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,partes del cuerpo,Sin Dato,Episodio 3,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,47.43065
+CARLOS ENRIQUE,CARLOS ENRIQUE,Sin Dato,Sin Dato,Episodio 4,Cadetes,0.492455418,9.986873821,13.33940819,0,3.5,6.255413733
+CARLOS ENRIQUE,CARLOS ENRIQUE,Despegue,blue,Episodio 1,Astro,1,3.341481,1,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Despegue,green,Episodio 1,Astro,1,2.750356,2,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Despegue,yellow,Episodio 1,Astro,1,2.650007,3,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Despegue,violet,Episodio 1,Astro,1,2.315949,4,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Despegue,Sin Dato,Episodio 1,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,26.12613
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,blue,Episodio 1,Astro,1,2.321172,1,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,yellow,Episodio 1,Astro,1,3.266872,2,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,yellow,Episodio 1,Astro,1,2.23339,3,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,violet,Episodio 1,Astro,1,1.733605,4,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,Sin Dato,Episodio 1,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,12.40421
+CARLOS ENRIQUE,CARLOS ENRIQUE,Estrellas,violet,Episodio 1,Astro,1,2.939172,1,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Estrellas,blue,Episodio 1,Astro,1,2.716542,2,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Estrellas,blue,Episodio 1,Astro,1,2.750278,3,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Estrellas,blue,Episodio 1,Astro,1,1.500035,4,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Estrellas,Sin Dato,Episodio 1,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,19.30665
+CARLOS ENRIQUE,CARLOS ENRIQUE,Gusanos,violet,Episodio 1,Astro,1,1.333826,1,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Gusanos,blue,Episodio 1,Astro,1,2.300217,2,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Gusanos,yellow,Episodio 1,Astro,1,1.633466,3,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Gusanos,yellow,Episodio 1,Astro,1,1.433612,4,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Gusanos,Sin Dato,Episodio 1,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,30.82894
+CARLOS ENRIQUE,CARLOS ENRIQUE,Restaurante,green,Episodio 1,Astro,1,8.733817,1,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Restaurante,green,Episodio 1,Astro,1,1.733538,2,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Restaurante,violet,Episodio 1,Astro,1,4.183393,3,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Restaurante,yellow,Episodio 1,Astro,1,4.150966,4,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Restaurante,Sin Dato,Episodio 1,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,66.3141
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,violet,Episodio 2,Astro,1,1.774947,1,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,yellow,Episodio 2,Astro,1,1.949958,2,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,green,Episodio 2,Astro,1,1.732972,3,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,green,Episodio 2,Astro,1,1.683489,4,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,yellow,Episodio 2,Astro,1,1.617212,5,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,Sin Dato,Episodio 2,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,11.04135
+CARLOS ENRIQUE,CARLOS ENRIQUE,Estrellas,violet,Episodio 2,Astro,1,1.898544,1,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Estrellas,blue,Episodio 2,Astro,1,1.74952,2,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Estrellas,blue,Episodio 2,Astro,1,1.666498,3,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Estrellas,violet,Episodio 2,Astro,1,2.267859,4,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Estrellas,green,Episodio 2,Astro,1,2.266613,5,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Estrellas,Sin Dato,Episodio 2,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,21.39891
+CARLOS ENRIQUE,CARLOS ENRIQUE,Gusanos,yellow,Episodio 2,Astro,1,1.267425,1,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Gusanos,blue,Episodio 2,Astro,1,2.116755,2,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Gusanos,yellow,Episodio 2,Astro,1,1.182978,3,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Gusanos,green,Episodio 2,Astro,1,1.216685,4,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Gusanos,yellow,Episodio 2,Astro,1,1.1013,5,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Gusanos,Sin Dato,Episodio 2,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,30.02984
+CARLOS ENRIQUE,CARLOS ENRIQUE,Restaurante,green,Episodio 2,Astro,1,8.166848,1,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Restaurante,green,Episodio 2,Astro,1,3.133706,2,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Restaurante,violet,Episodio 2,Astro,0,1.61686,3,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Restaurante,violet,Episodio 2,Astro,0,4.833708,4,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Restaurante,violet,Episodio 2,Astro,1,4.050117,5,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Restaurante,yellow,Episodio 2,Astro,1,2.200274,6,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Restaurante,violet,Episodio 2,Astro,1,2.583336,7,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Restaurante,Sin Dato,Episodio 2,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,4.5
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,green,Episodio 3,Astro,1,2.009575,1,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,green,Episodio 3,Astro,1,1.81626,2,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,blue,Episodio 3,Astro,1,1.616785,3,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,yellow,Episodio 3,Astro,1,1.333502,4,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,yellow,Episodio 3,Astro,1,1.417122,5,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,Sin Dato,Episodio 3,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,10.39239
+CARLOS ENRIQUE,CARLOS ENRIQUE,Estrellas,blue,Episodio 3,Astro,1,2.21429,1,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Estrellas,green,Episodio 3,Astro,1,1.699888,2,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Estrellas,green,Episodio 3,Astro,1,1.700238,3,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Estrellas,green,Episodio 3,Astro,1,2.150724,4,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Estrellas,yellow,Episodio 3,Astro,1,2.016902,5,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Estrellas,Sin Dato,Episodio 3,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,28.78214
+CARLOS ENRIQUE,CARLOS ENRIQUE,Gusanos,green,Episodio 3,Astro,0,0.2506295,1,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Gusanos,green,Episodio 3,Astro,0,0.9012417,2,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Gusanos,blue,Episodio 3,Astro,1,1.700585,3,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Gusanos,Sin Dato,Episodio 3,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,5.436529
+CARLOS ENRIQUE,CARLOS ENRIQUE,Sin Dato,Sin Dato,Episodio 3,Astro,0.492455418,9.986873821,13.33940819,0,3.5,6.255413733
+CARLOS ENRIQUE,CARLOS ENRIQUE,MiniGame_2,Sin Dato,Episodio 3,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,6.255413733
+ALEIDA,CARLOS ABEL,sonidos y animales,blue,Episodio 1,Cadetes,1,4.193079,1,0,0,0
+ALEIDA,CARLOS ABEL,sonidos y animales,green,Episodio 1,Cadetes,1,2.733516,2,0,0,0
+ALEIDA,CARLOS ABEL,sonidos y animales,yellow,Episodio 1,Cadetes,1,3.266711,3,0,0,0
+ALEIDA,CARLOS ABEL,sonidos y animales,violet,Episodio 1,Cadetes,0,8.268052,4,0,0,0
+ALEIDA,CARLOS ABEL,sonidos y animales,violet,Episodio 1,Cadetes,0,10.55067,5,0,0,0
+ALEIDA,CARLOS ABEL,sonidos y animales,violet,Episodio 1,Cadetes,0,10.65064,6,0,0,0
+ALEIDA,CARLOS ABEL,sonidos y animales,violet,Episodio 1,Cadetes,0,12.35089,7,0,0,0
+ALEIDA,CARLOS ABEL,sonidos y animales,violet,Episodio 1,Cadetes,0,12.48425,8,0,0,0
+ALEIDA,CARLOS ABEL,sonidos y animales,violet,Episodio 1,Cadetes,0,12.66809,9,0,0,0
+ALEIDA,CARLOS ABEL,sonidos y animales,violet,Episodio 1,Cadetes,0,13.85112,10,0,0,0
+ALEIDA,CARLOS ABEL,sonidos y animales,violet,Episodio 1,Cadetes,1,7.917081,11,0,0,0
+ALEIDA,CARLOS ABEL,sonidos y animales,Sin Dato,Episodio 1,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,50.54398
+ALEIDA,CARLOS ABEL,animales y colores,blue,Episodio 1,Cadetes,1,6.801768,1,0,0,0
+ALEIDA,CARLOS ABEL,animales y colores,blue,Episodio 1,Cadetes,0,7.284073,2,0,0,0
+ALEIDA,CARLOS ABEL,animales y colores,blue,Episodio 1,Cadetes,0,8.133861,3,0,0,0
+ALEIDA,CARLOS ABEL,animales y colores,green,Episodio 1,Cadetes,1,6.253427,4,0,0,0
+ALEIDA,CARLOS ABEL,animales y colores,yellow,Episodio 1,Cadetes,1,5.9,5,0,0,0
+ALEIDA,CARLOS ABEL,animales y colores,violet,Episodio 1,Cadetes,1,5.9,6,0,0,0
+ALEIDA,CARLOS ABEL,animales y colores,Sin Dato,Episodio 1,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,4.5
+ALEIDA,CARLOS ABEL,figuras y colores,blue,Episodio 1,Cadetes,1,5.9,1,0,0,0
+ALEIDA,CARLOS ABEL,figuras y colores,green,Episodio 1,Cadetes,1,5.9,2,0,0,0
+ALEIDA,CARLOS ABEL,figuras y colores,yellow,Episodio 1,Cadetes,1,5.9,3,0,0,0
+ALEIDA,CARLOS ABEL,figuras y colores,violet,Episodio 1,Cadetes,1,5.9,4,0,0,0
+ALEIDA,CARLOS ABEL,figuras y colores,Sin Dato,Episodio 1,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,4.5
+ALEIDA,CARLOS ABEL,partes del cuerpo,blue,Episodio 1,Cadetes,1,5.9,1,0,0,0
+ALEIDA,CARLOS ABEL,partes del cuerpo,green,Episodio 1,Cadetes,1,5.9,2,0,0,0
+ALEIDA,CARLOS ABEL,partes del cuerpo,yellow,Episodio 1,Cadetes,1,5.9,3,0,0,0
+ALEIDA,CARLOS ABEL,partes del cuerpo,yellow,Episodio 1,Cadetes,0,5.9,4,0,0,0
+ALEIDA,CARLOS ABEL,partes del cuerpo,violet,Episodio 1,Cadetes,1,5.9,5,0,0,0
+ALEIDA,CARLOS ABEL,partes del cuerpo,Sin Dato,Episodio 1,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,4.5
+ALEIDA,CARLOS ABEL,sonidos y animales,yellow,Episodio 2,Cadetes,0,0,1,0,0,0
+ALEIDA,CARLOS ABEL,sonidos y animales,yellow,Episodio 2,Cadetes,0,10.83333,2,0,0,0
+ALEIDA,CARLOS ABEL,sonidos y animales,yellow,Episodio 2,Cadetes,0,12.41679,3,0,0,0
+ALEIDA,CARLOS ABEL,sonidos y animales,yellow,Episodio 2,Cadetes,0,12.43356,4,0,0,0
+ALEIDA,CARLOS ABEL,sonidos y animales,yellow,Episodio 2,Cadetes,0,13.45073,5,0,0,0
+ALEIDA,CARLOS ABEL,sonidos y animales,yellow,Episodio 2,Cadetes,1,15.42787,6,0,0,0
+ALEIDA,CARLOS ABEL,sonidos y animales,blue,Episodio 2,Cadetes,1,5.9,7,0,0,0
+ALEIDA,CARLOS ABEL,sonidos y animales,Sin Dato,Episodio 2,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,70.36525
+ALEIDA,CARLOS ABEL,Sin Dato,Sin Dato,Episodio 2,Cadetes,0.492455418,9.986873821,13.33940819,0,3.5,6.255413733
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,green,Episodio 4,Astro,1,0.4162876,1,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,Sin Dato,Episodio 4,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,9.096481
+CARLOS ENRIQUE,CARLOS ENRIQUE,Sin Dato,Sin Dato,Episodio 4,Astro,0.492455418,9.986873821,13.33940819,0,55.09243,6.255413733
+CARLOS ENRIQUE,CARLOS ENRIQUE,MiniGame_0,Sin Dato,Episodio 4,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,6.255413733
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,green,Episodio 4,Astro,1,2.623113,1,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,violet,Episodio 4,Astro,1,1.633869,2,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,yellow,Episodio 4,Astro,0,0.2834134,3,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,yellow,Episodio 4,Astro,1,1.983291,4,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,green,Episodio 4,Astro,1,1.950036,5,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,blue,Episodio 4,Astro,1,1.833589,6,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,violet,Episodio 4,Astro,1,2.166798,7,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,yellow,Episodio 4,Astro,1,1.683938,8,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,blue,Episodio 4,Astro,1,1.966735,9,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,Sin Dato,Episodio 4,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,18.55856
+CARLOS ENRIQUE,CARLOS ENRIQUE,Sin Dato,Sin Dato,Episodio 4,Astro,0.492455418,9.986873821,13.33940819,0,72.23801,6.255413733
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,green,Episodio 4,Astro,1,1.598925,1,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,violet,Episodio 4,Astro,0,1.382895,2,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,violet,Episodio 4,Astro,1,1.750404,3,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,yellow,Episodio 4,Astro,1,1.366461,4,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,green,Episodio 4,Astro,1,1.599884,5,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,blue,Episodio 4,Astro,1,1.533339,6,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,violet,Episodio 4,Astro,1,1.816813,7,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,yellow,Episodio 4,Astro,1,1.633493,8,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,blue,Episodio 4,Astro,0,1.450235,9,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,blue,Episodio 4,Astro,1,2.233559,10,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,Sin Dato,Episodio 4,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,16.7831
+CARLOS ENRIQUE,CARLOS ENRIQUE,Sin Dato,Sin Dato,Episodio 4,Astro,0.492455418,9.986873821,13.33940819,0,70.43639,6.255413733
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,green,Episodio 4,Astro,1,1.718841,1,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,violet,Episodio 4,Astro,1,1.500423,2,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,yellow,Episodio 4,Astro,1,1.465971,3,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,green,Episodio 4,Astro,1,1.567069,4,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,blue,Episodio 4,Astro,1,1.450547,5,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,violet,Episodio 4,Astro,0,0.8002678,6,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,violet,Episodio 4,Astro,1,1.350101,7,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,yellow,Episodio 4,Astro,1,1.334841,8,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,blue,Episodio 4,Astro,1,1.633505,9,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Asteroides,Sin Dato,Episodio 4,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,15.58652
+CARLOS ENRIQUE,CARLOS ENRIQUE,Sin Dato,Sin Dato,Episodio 4,Astro,0.492455418,9.986873821,13.33940819,0,69.28603,6.255413733
+CARLOS ENRIQUE,CARLOS ENRIQUE,Estrellas,blue,Episodio 4,Astro,1,2.304634,1,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Estrellas,yellow,Episodio 4,Astro,1,3.450462,2,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Estrellas,violet,Episodio 4,Astro,1,1.94998,3,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Estrellas,green,Episodio 4,Astro,1,2.566381,4,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Estrellas,violet,Episodio 4,Astro,1,2.049619,5,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Estrellas,Sin Dato,Episodio 4,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,37.88959
+CARLOS ENRIQUE,CARLOS ENRIQUE,Sin Dato,Sin Dato,Episodio 4,Astro,0.492455418,9.986873821,13.33940819,0,99.03384,6.255413733
+CARLOS ENRIQUE,CARLOS ENRIQUE,Estrellas,blue,Episodio 4,Astro,1,2.520024,1,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Estrellas,yellow,Episodio 4,Astro,1,2.833649,2,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Estrellas,violet,Episodio 4,Astro,1,2.083621,3,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Estrellas,green,Episodio 4,Astro,1,2.266889,4,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Estrellas,violet,Episodio 4,Astro,1,2.01739,5,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Estrellas,Sin Dato,Episodio 4,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,29.78859
+CARLOS ENRIQUE,CARLOS ENRIQUE,Sin Dato,Sin Dato,Episodio 4,Astro,0.492455418,9.986873821,13.33940819,0,90.91635,6.255413733
+CARLOS ENRIQUE,CARLOS ENRIQUE,Estrellas,blue,Episodio 4,Astro,1,2.349251,1,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Estrellas,yellow,Episodio 4,Astro,1,2.583769,2,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Estrellas,violet,Episodio 4,Astro,1,2.350129,3,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Estrellas,green,Episodio 4,Astro,1,2.150831,4,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Estrellas,violet,Episodio 4,Astro,1,2.084275,5,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Estrellas,Sin Dato,Episodio 4,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,23.96745
+CARLOS ENRIQUE,CARLOS ENRIQUE,Sin Dato,Sin Dato,Episodio 4,Astro,0.492455418,9.986873821,13.33940819,0,85.13407,6.255413733
+CARLOS ENRIQUE,CARLOS ENRIQUE,Gusanos,green,Episodio 4,Astro,1,1.716277,1,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Gusanos,blue,Episodio 4,Astro,1,1.434271,2,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Gusanos,violet,Episodio 4,Astro,1,1.60026,3,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Gusanos,yellow,Episodio 4,Astro,1,1.550085,4,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Gusanos,violet,Episodio 4,Astro,1,1.749946,5,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Gusanos,Sin Dato,Episodio 4,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,28.20864
+CARLOS ENRIQUE,CARLOS ENRIQUE,Sin Dato,Sin Dato,Episodio 4,Astro,0.492455418,9.986873821,13.33940819,0,86.10945,6.255413733
+CARLOS ENRIQUE,CARLOS ENRIQUE,Gusanos,green,Episodio 4,Astro,1,2.150301,1,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Gusanos,blue,Episodio 4,Astro,1,1.833113,2,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Gusanos,violet,Episodio 4,Astro,1,1.317164,3,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Gusanos,yellow,Episodio 4,Astro,1,1.033672,4,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Gusanos,violet,Episodio 4,Astro,1,1.132947,5,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Gusanos,Sin Dato,Episodio 4,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,27.6393
+CARLOS ENRIQUE,CARLOS ENRIQUE,Sin Dato,Sin Dato,Episodio 4,Astro,0.492455418,9.986873821,13.33940819,0,85.56737,6.255413733
+CARLOS ENRIQUE,CARLOS ENRIQUE,Restaurante,yellow,Episodio 4,Astro,1,2.850289,1,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Restaurante,violet,Episodio 4,Astro,1,1.866735,2,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Restaurante,yellow,Episodio 4,Astro,0,3.800334,3,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Restaurante,yellow,Episodio 4,Astro,0,5.05084,4,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Restaurante,yellow,Episodio 4,Astro,1,5.400436,5,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Restaurante,green,Episodio 4,Astro,1,2.450034,6,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Restaurante,blue,Episodio 4,Astro,1,3.816682,7,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Restaurante,Sin Dato,Episodio 4,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,75.77021
+CARLOS ENRIQUE,CARLOS ENRIQUE,Sin Dato,Sin Dato,Episodio 4,Astro,0.492455418,9.986873821,13.33940819,0,149.1176,6.255413733
+CARLOS ENRIQUE,CARLOS ENRIQUE,Restaurante,green,Episodio 4,Astro,1,3.63359,1,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Restaurante,violet,Episodio 4,Astro,1,2.583561,2,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Restaurante,yellow,Episodio 4,Astro,1,2.416482,3,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Restaurante,green,Episodio 4,Astro,1,2.650308,4,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Restaurante,blue,Episodio 4,Astro,1,2.384773,5,0,0,0
+CARLOS ENRIQUE,CARLOS ENRIQUE,Restaurante,Sin Dato,Episodio 4,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,73.03201
+CARLOS ENRIQUE,CARLOS ENRIQUE,Sin Dato,Sin Dato,Episodio 4,Astro,0.492455418,9.986873821,13.33940819,0,146.3183,6.255413733
+BENJAMIN,BENJAMIN,sonidos y animales,blue,Episodio 1,Cadetes,0,0,1,0,0,0
+BENJAMIN,BENJAMIN,sonidos y animales,blue,Episodio 1,Cadetes,0,0.1429413,2,0,0,0
+BENJAMIN,BENJAMIN,sonidos y animales,blue,Episodio 1,Cadetes,1,8.653378,3,0,0,0
+BENJAMIN,BENJAMIN,sonidos y animales,blue,Episodio 1,Cadetes,0,8.067134,4,0,0,0
+BENJAMIN,BENJAMIN,sonidos y animales,blue,Episodio 1,Cadetes,0,13.35088,5,0,0,0
+BENJAMIN,BENJAMIN,sonidos y animales,blue,Episodio 1,Cadetes,0,14.63428,6,0,0,0
+BENJAMIN,BENJAMIN,sonidos y animales,blue,Episodio 1,Cadetes,1,8.616956,7,0,0,0
+BENJAMIN,BENJAMIN,sonidos y animales,blue,Episodio 1,Cadetes,0,9.367875,8,0,0,0
+BENJAMIN,BENJAMIN,sonidos y animales,blue,Episodio 1,Cadetes,0,11.58387,9,0,0,0
+BENJAMIN,BENJAMIN,sonidos y animales,blue,Episodio 1,Cadetes,0,12.03418,10,0,0,0
+BENJAMIN,BENJAMIN,sonidos y animales,blue,Episodio 1,Cadetes,1,4.282853,11,0,0,0
+BENJAMIN,BENJAMIN,sonidos y animales,blue,Episodio 1,Cadetes,0,8.067227,12,0,0,0
+BENJAMIN,BENJAMIN,sonidos y animales,blue,Episodio 1,Cadetes,1,1.066613,13,0,0,0
+BENJAMIN,BENJAMIN,sonidos y animales,Sin Dato,Episodio 1,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,54.37316
+BENJAMIN,BENJAMIN,sonidos y animales,violet,Episodio 2,Cadetes,0,0,1,0,0,0
+BENJAMIN,BENJAMIN,sonidos y animales,violet,Episodio 2,Cadetes,1,5.327645,2,0,0,0
+BENJAMIN,BENJAMIN,sonidos y animales,violet,Episodio 2,Cadetes,1,0.6329694,3,0,0,0
+BENJAMIN,BENJAMIN,sonidos y animales,violet,Episodio 2,Cadetes,1,1.066738,4,0,0,0
+BENJAMIN,BENJAMIN,sonidos y animales,violet,Episodio 2,Cadetes,1,1.449422,5,0,0,0
+BENJAMIN,BENJAMIN,sonidos y animales,Sin Dato,Episodio 2,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,43.22955
+BENJAMIN,BENJAMIN,sonidos y animales,green,Episodio 3,Cadetes,0,0,1,0,0,0
+BENJAMIN,BENJAMIN,sonidos y animales,green,Episodio 3,Cadetes,0,0.6000954,2,0,0,0
+BENJAMIN,BENJAMIN,sonidos y animales,green,Episodio 3,Cadetes,0,2.250244,3,0,0,0
+BENJAMIN,BENJAMIN,sonidos y animales,green,Episodio 3,Cadetes,1,13.56515,4,0,0,0
+BENJAMIN,BENJAMIN,sonidos y animales,violet,Episodio 3,Cadetes,1,1.233233,5,0,0,0
+BENJAMIN,BENJAMIN,sonidos y animales,green,Episodio 3,Cadetes,0,13.35074,6,0,0,0
+BENJAMIN,BENJAMIN,sonidos y animales,green,Episodio 3,Cadetes,0,15.80101,7,0,0,0
+BENJAMIN,BENJAMIN,sonidos y animales,green,Episodio 3,Cadetes,0,17.73468,8,0,0,0
+BENJAMIN,BENJAMIN,sonidos y animales,green,Episodio 3,Cadetes,0,19.40117,9,0,0,0
+BENJAMIN,BENJAMIN,sonidos y animales,green,Episodio 3,Cadetes,1,10.93477,10,0,0,0
+BENJAMIN,BENJAMIN,sonidos y animales,violet,Episodio 3,Cadetes,1,0.8166434,11,0,0,0
+BENJAMIN,BENJAMIN,sonidos y animales,green,Episodio 3,Cadetes,0,9.917151,12,0,0,0
+BENJAMIN,BENJAMIN,sonidos y animales,green,Episodio 3,Cadetes,1,4.916341,13,0,0,0
+BENJAMIN,BENJAMIN,sonidos y animales,Sin Dato,Episodio 3,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,77.2857
+BENJAMIN,BENJAMIN,Sin Dato,Sin Dato,Episodio 4,Cadetes,0.492455418,9.986873821,13.33940819,0,274.8047,6.255413733
+BENJAMIN,BENJAMIN,animales y colores,yellow,Episodio 1,Cadetes,0,0,1,0,0,0
+BENJAMIN,BENJAMIN,animales y colores,violet,Episodio 1,Cadetes,0,0.0799665,2,0,0,0
+BENJAMIN,BENJAMIN,animales y colores,green,Episodio 1,Cadetes,1,4.723186,3,0,0,0
+BENJAMIN,BENJAMIN,animales y colores,green,Episodio 1,Cadetes,1,2.957401,4,0,0,0
+BENJAMIN,BENJAMIN,animales y colores,blue,Episodio 1,Cadetes,0,21.61777,5,0,0,0
+BENJAMIN,BENJAMIN,animales y colores,green,Episodio 1,Cadetes,1,16.92552,6,0,0,0
+BENJAMIN,BENJAMIN,animales y colores,blue,Episodio 1,Cadetes,0,5.9,7,0,0,0
+BENJAMIN,BENJAMIN,animales y colores,green,Episodio 1,Cadetes,1,19.53918,8,0,0,0
+BENJAMIN,BENJAMIN,animales y colores,violet,Episodio 1,Cadetes,0,0.016747,9,0,0,0
+BENJAMIN,BENJAMIN,animales y colores,Sin Dato,Episodio 1,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,70.82742
+BENJAMIN,BENJAMIN,animales y colores,green,Episodio 2,Cadetes,0,0,1,0,0,0
+BENJAMIN,BENJAMIN,animales y colores,green,Episodio 2,Cadetes,0,0.7330049,2,0,0,0
+BENJAMIN,BENJAMIN,animales y colores,blue,Episodio 2,Cadetes,1,13.60076,3,0,0,0
+BENJAMIN,BENJAMIN,animales y colores,green,Episodio 2,Cadetes,0,18.20091,4,0,0,0
+BENJAMIN,BENJAMIN,animales y colores,Sin Dato,Episodio 2,Cadetes,0.492455418,9.986873821,13.33940819,0,12.42217094,34.77003
+BENJAMIN,BENJAMIN,Sin Dato,Sin Dato,Episodio 2,Cadetes,0.492455418,9.986873821,13.33940819,0,172.051,6.255413733
+DENISSE,DENISSE,Asteroides,yellow,Episodio 4,Astro,1,1.363845,1,0,0,0
+DENISSE,DENISSE,Asteroides,blue,Episodio 4,Astro,1,1.000183,2,0,0,0
+DENISSE,DENISSE,Asteroides,violet,Episodio 4,Astro,0,0.8335046,3,0,0,0
+DENISSE,DENISSE,Asteroides,violet,Episodio 4,Astro,0,1.616973,4,0,0,0
+DENISSE,DENISSE,Asteroides,violet,Episodio 4,Astro,1,2.217062,5,0,0,0
+DENISSE,DENISSE,Asteroides,green,Episodio 4,Astro,0,0.8166302,6,0,0,0
+DENISSE,DENISSE,Asteroides,green,Episodio 4,Astro,0,1.266695,7,0,0,0
+DENISSE,DENISSE,Asteroides,green,Episodio 4,Astro,1,1.73325,8,0,0,0
+DENISSE,DENISSE,Asteroides,violet,Episodio 4,Astro,1,1.466627,9,0,0,0
+DENISSE,DENISSE,Asteroides,green,Episodio 4,Astro,0,0.850086,10,0,0,0
+DENISSE,DENISSE,Asteroides,green,Episodio 4,Astro,0,1.333287,11,0,0,0
+DENISSE,DENISSE,Asteroides,green,Episodio 4,Astro,1,1.800214,12,0,0,0
+DENISSE,DENISSE,Asteroides,green,Episodio 4,Astro,0,1.050406,13,0,0,0
+DENISSE,DENISSE,Asteroides,green,Episodio 4,Astro,1,1.299757,14,0,0,0
+DENISSE,DENISSE,Asteroides,violet,Episodio 4,Astro,1,1.016641,15,0,0,0
+DENISSE,DENISSE,Asteroides,Sin Dato,Episodio 4,Astro,0.492455418,9.986873821,13.33940819,0,12.42217094,15.46729
+DENISSE,DENISSE,Sin Dato,Sin Dato,Episodio 4,Astro,0.492455418,9.986873821,13.33940819,0,69.16364,6.255413733
